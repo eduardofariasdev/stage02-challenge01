@@ -1,6 +1,6 @@
 # Stage 02 - Challenge 01
 
-### Projeto desenvolvido no nível 02 do programa de formação Explorer da Rocketseat.
+**Projeto desenvolvido no nível 02 do programa de formação Explorer da Rocketseat.**
 
 <img align="center" src="./preview.png"/>
 
