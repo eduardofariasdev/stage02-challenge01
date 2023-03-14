@@ -1,15 +1,28 @@
 # Stage 02 - Challenge 01
 
-<p align="center">
-  <img alt="Preview do resultado do projeto desenvolvido." src="./preview.png" width="100%">
-</p>
+### Projeto desenvolvido no nível 02 do programa de formação Explorer da Rocketseat.
 
-<h3 align="center">
-  Projeto desenvolvido no programa de formação Explorer da Rocketseat.
-</h3>
+<img align="center" src="./preview.png"/>
 
-<div align="center">
+## **Conceitos trabalhados**
 
-Clique **[aqui](https://eduardofariasdev.github.io/explorer-stage02-challenge01/)** para abrir a página no seu navegador.
+<div align="left">
+
+- **Conceitos introdutórios de HTML:**
+  - Estruturando um projeto HTML;
+  - Tags HTML mais comuns;
 
 </div>
+
+<div align="left">
+
+- **Conceitos introdutórios de CSS:**
+  - Posicionamento e alinhamento de elementos na tela;
+  - Aplicando fontes customizadas;
+  - Espaçamentos;
+  - Cores.
+
+</div>
+
+##### 👆🏽 Clique **[aqui](https://eduardofariasdev.github.io/explorer-stage02-challenge01/)** e abra esse projeto no seu seu navegador.
+
