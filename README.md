@@ -18,5 +18,5 @@
 - Espaçamentos;
 - Cores.
 
-#### 👉🏽 Clique **[aqui](https://eduardofariasdev.github.io/explorer-stage02-challenge01/)** e abra esse projeto no seu seu navegador.
+#### 👉🏽 Clique **[aqui](https://eduardofariasdev.github.io/stage02-challenge01/)** e abra esse projeto no seu seu navegador.
 
